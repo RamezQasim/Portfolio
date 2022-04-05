@@ -396,7 +396,7 @@
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 1775px;
+  min-height: 1451px;
 }
 
 .u-section-6 .u-text-1 {
@@ -573,22 +573,20 @@
   width: 912px;
   height: 3px;
   position: absolute;
-  top: 146px;
+  top: 83px;
   transform-origin: center top 0px;
+  left: 457px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-6 .u-sheet-1 {
-    min-height: 1536px;
-  }
-
   .u-section-6 .u-text-1 {
     width: auto;
-    margin-top: 60px;
+    margin-top: 34px;
   }
 
   .u-section-6 .u-list-1 {
     margin-top: 55px;
+    margin-bottom: 51px;
   }
 
   .u-section-6 .u-repeater-1 {
